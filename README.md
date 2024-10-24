@@ -5,7 +5,7 @@ I'm a developer with a strong focus on back-end development and data analysis. I
 
 ### 💻 Tech Stack
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=docker,vim,azure,aws,gcp,debian,kali,py,selenium,cloudflare,bash,obsidian,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=androidstudio,azure,cs,css,docker,flutter,notion,powershell,py,visualstudio,vscode,windows,mongodb,html" />
 </div><br>
 
 
